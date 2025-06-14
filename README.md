@@ -21,7 +21,7 @@ SETUP INSTRUCTIONS:
 1. Make sure your IV data file is formatted as:
    Voltage (V) ; Current (A)
    (semicolon-separated)
-  use the attached file "DD" for checking 
+  use the attached file "test.txt" for checking 
 
 2. Place the background image ( 2.png) instead of:
    C:\Users\ASUS\OneDrive\Desktop\5th\matlab\2.png
